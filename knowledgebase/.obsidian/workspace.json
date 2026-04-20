@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "c6f64ebeb118ba55",
+    "type": "split",
+    "children": [
+      {
+        "id": "d363267442b393b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "749ba2b7ffc29b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helix-longfeng/wiki/entities/wechat-subscribe-message.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wechat-subscribe-message"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eee949d16d9a1481",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba064b52e236e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0b2e655d11dea9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c6e93afb78fcd70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a30c59c9c1e170e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f78cdb4f1f1fdb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fcfbe2c67de5ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef54419ea5bd352",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Helix-longfeng/wiki/entities/wechat-subscribe-message.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for wechat-subscribe-message"
+            }
+          },
+          {
+            "id": "328304bd89686b22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Helix-longfeng/wiki/entities/wechat-subscribe-message.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from wechat-subscribe-message"
+            }
+          },
+          {
+            "id": "f7e17a2a71ef7253",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fab108be09728f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d81fd66005f0cee8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Helix-longfeng/wiki/entities/wechat-subscribe-message.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of wechat-subscribe-message"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "749ba2b7ffc29b96",
+  "lastOpenFiles": [
+    "Helix-longfeng/raw/articles/通用日历系统数据模型设计（支持多关联项：学习_任务_提醒_备忘）.docx",
+    "Helix-longfeng/raw/notes/落地实施计划.md",
+    "Helix-longfeng/wiki/queries/implementation-plan.md",
+    "Helix-longfeng/落地实施计划.md",
+    "Helix-longfeng/wiki/entities/vendor-push-channels.md",
+    "Helix-longfeng/wiki/entities/powerjob.md",
+    "Helix-longfeng/wiki/entities/netty-socketio.md",
+    "Helix-longfeng/wiki/entities/doubao-ai.md",
+    "Helix-longfeng/wiki/overview.md",
+    "Helix-longfeng/wiki/sources/million-dau-push-architecture.md",
+    "Helix-longfeng/wiki/index.md",
+    "Helix-longfeng/wiki/concepts/push-notification-architecture.md",
+    "Helix-longfeng/wiki/Untitled.canvas",
+    "Untitled 1.base",
+    "Helix-longfeng/wiki/log.md",
+    "Untitled.base",
+    "2026-04-20.md",
+    "Untitled.canvas"
+  ]
+}

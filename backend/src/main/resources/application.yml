@@ -1,0 +1,21 @@
+spring:
+  ai:
+    openai:
+      api-key: ${QIANWEN_API_KEY}
+      base-url: https://dashscope.aliyuncs.com/compatible-mode
+      chat:
+        options:
+          model: qwen-vl-max
+          max-tokens: 4096
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 20MB
+
+server:
+  port: 8080
+
+app:
+  upload:
+    dir: uploads/
+  mock-ai: false

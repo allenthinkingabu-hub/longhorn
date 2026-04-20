@@ -1,0 +1,20 @@
+services:
+  backend:
+    build: ./backend
+    restart: always
+    environment:
+      - QIANWEN_API_KEY=${QIANWEN_API_KEY}
+    volumes:
+      - /build/uploads:/app/uploads     # 图片存到服务器磁盘，不会丢
+
+  nginx:
+    image: nginx:alpine
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /build/nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - /build/nginx/certs:/etc/nginx/certs:ro
+    depends_on:
+      - backend
